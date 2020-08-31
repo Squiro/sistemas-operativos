@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536280261 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\tp1\mi ctype.h\main.c
+	"funciones.h"
+
+1536280346 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\tp1\mi ctype.h\funciones.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+
+1536280432 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\tp1\mi ctype.h\funciones.c
+	"funciones.h"
+

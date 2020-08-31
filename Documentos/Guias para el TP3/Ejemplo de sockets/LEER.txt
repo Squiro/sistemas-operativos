@@ -1,0 +1,20 @@
+Para compilar todo: 
+	Ejecutar en el directorio donde están los fuentes y el makefile:
+	make 
+	ó
+	make all
+
+Para ejecutar servidor y cliente:
+	Ejecutar el binario servidor pasándo como parámetro
+	el puerto de escucha (cualquiera arriba de 1024), por ejemplo: 
+	./servidor	5000
+	
+	Ejecutar el binario cliente pasándo como párametro
+	la IP donde está corriendo el servidor y el puerto de escucha 
+	
+	Si se ejecutan en la misma PC, cada binario se ejecuta en 
+	terminales distintas y la IP del servidor será la localhost:
+	./cliente 127.0.0.1 5000
+
+Nota: con el comando ifconfig se puede conocer entre otras cosas la IP de la PC.
+	

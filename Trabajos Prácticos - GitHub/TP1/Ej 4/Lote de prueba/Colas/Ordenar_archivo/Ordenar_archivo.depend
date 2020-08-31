@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1544544115 source:c:\users\agustín\desktop\ordenar_archivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"cola.h"
+
+1544541415 source:c:\users\agustín\desktop\ordenar_archivo\cola.c
+	"cola.h"
+
+1544541607 c:\users\agustín\desktop\ordenar_archivo\cola.h
+	<stdlib.h>
+	<stdio.h>
+
+1544544945 source:c:\users\agustín\desktop\ordenar_archivo\funciones.c
+	"funciones.h"
+
+1544548615 c:\users\agustín\desktop\ordenar_archivo\funciones.h
+	<stdlib.h>
+	<stdio.h>
+	"cola.h"
+

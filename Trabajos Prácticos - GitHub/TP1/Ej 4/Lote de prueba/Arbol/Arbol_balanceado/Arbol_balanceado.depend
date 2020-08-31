@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1542650273 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\arbol\arbol_balanceado\arbol.c
+	"arbol.h"
+
+1542650201 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\arbol\arbol_balanceado\arbol.h
+	<stdlib.h>
+	<stdio.h>
+
+1542649482 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\arbol\arbol_balanceado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"arbol.h"
+
+1542648142 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\arbol\arbol_balanceado\funciones.h
+	<stdlib.h>
+	<stdio.h>
+	"arbol.h"
+
+1542650086 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\arbol\arbol_balanceado\funciones.c
+	"funciones.h"
+
+1542809384 source:g:\facultad\programación\ejercicios\específicos\arbol\arbol_balanceado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"arbol.h"
+
+1542809378 g:\facultad\programación\ejercicios\específicos\arbol\arbol_balanceado\funciones.h
+	<stdlib.h>
+	<stdio.h>
+	"arbol.h"
+
+1542810286 g:\facultad\programación\ejercicios\específicos\arbol\arbol_balanceado\arbol.h
+	<stdlib.h>
+	<stdio.h>
+
+1542810294 source:g:\facultad\programación\ejercicios\específicos\arbol\arbol_balanceado\funciones.c
+	"funciones.h"
+
+1542810236 source:g:\facultad\programación\ejercicios\específicos\arbol\arbol_balanceado\arbol.c
+	"arbol.h"
+

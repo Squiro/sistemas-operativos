@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1541706861 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\c++\clase_complejos\main.cpp
+	<iostream>
+	"complejos.h"
+
+1541707144 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\c++\clase_complejos\complejos.cpp
+	"complejos.h"
+
+1541707027 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\c++\clase_complejos\complejos.h
+	<iostream>
+

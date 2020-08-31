@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1536159669 source:g:\facultad\programación\ejercicios\tp1\mi string.h\funciones.c
+
+1536159694 source:g:\facultad\programación\ejercicios\tp1\mi string.h\main.c
+	"funciones.h"
+
+1536155906 g:\facultad\programación\ejercicios\tp1\mi string.h\funciones.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1536266741 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\tp1\mi string.h\main.c
+	"funciones.h"
+
+1536264617 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\tp1\mi string.h\funciones.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1536266503 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\tp1\mi string.h\funciones.c
+	"funciones.h"
+
+1536266917 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\mi string.h\funciones.c
+	"funciones.h"
+
+1536264617 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\mi string.h\funciones.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+

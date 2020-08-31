@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537824235 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\arraytox\funciones.c
+	"funciones.h"
+
+1537820295 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\arraytox\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1537820627 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\arraytox\main.c
+	"funciones.h"
+

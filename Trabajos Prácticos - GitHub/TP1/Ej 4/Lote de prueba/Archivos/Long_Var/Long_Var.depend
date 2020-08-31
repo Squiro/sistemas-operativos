@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1538171984 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\long_var\funciones.c
+	"funciones.h"
+
+1538171994 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\long_var\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1537971744 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\long_var\main.c
+	"funciones.h"
+

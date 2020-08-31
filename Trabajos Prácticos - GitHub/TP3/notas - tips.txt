@@ -1,0 +1,35 @@
+Bibliografia y ayuda acerca de make/makefile
+
+http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
+https://opensource.com/article/18/8/what-how-makefile
+https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html
+https://www.gnu.org/software/make/manual/html_node/index.html#SEC_Contents
+
+Acerca de los ordenes de ejecucion:
+
+https://stackoverflow.com/questions/41795010/order-of-rules-in-makefile-matters
+https://stackoverflow.com/questions/9159960/order-of-processing-components-in-makefile
+
+Los prerequisitos se ejecutan de izquierda a derecha, uno por uno, a menos que alguno de dichos prerequisitos tenga una dependencia.
+
+El comando make, sin especificar la regla/target, ejecuta todas las reglas por orden secuencial (la que se encuentre primero en el archivo será ejecutada).
+
+
+---------------- FIFOS con nombre --------------------
+
+https://en.wikipedia.org/wiki/Named_pipe
+http://man7.org/linux/man-pages/man7/fifo.7.html
+
+Se representan como un archivo dentro del FS, pueden vivir mas alla de la vida de los procesos (es decir, pueden seguir existiendo aunque ningun proceso los este utilizando). 
+
+Dos procesos separados pueden acceder al FIFO, uno como lector y el otro como escritor. 
+
+ A FIFO special file (a named pipe) is similar to a pipe, except that it is accessed as part of the filesystem. It can be opened by multiple processes for reading or writing. When processes are exchanging data via the FIFO, the kernel passes all data internally without writing it to the filesystem. Thus, the FIFO special file has no contents on the filesystem; the filesystem entry merely serves as a reference point so that processes can access the pipe using a name in the filesystem.
+
+The kernel maintains exactly one pipe object for each FIFO special file that is opened by at least one process. The FIFO must be opened on both ends (reading and writing) before data can be passed. Normally, opening the FIFO blocks until the other end is opened also.
+
+
+------ SHARED MEMORY -------
+
+https://www.geeksforgeeks.org/ipc-shared-memory/
+https://users.cs.cf.ac.uk/Dave.Marshall/C/node27.html

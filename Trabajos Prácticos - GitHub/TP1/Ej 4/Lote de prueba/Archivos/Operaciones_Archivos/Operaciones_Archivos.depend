@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537812645 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\operaciones_archivos\main.c
+	"archivos.h"
+
+1537811437 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\operaciones_archivos\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1537812659 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\operaciones_archivos\archivos.c
+	"archivos.h"
+

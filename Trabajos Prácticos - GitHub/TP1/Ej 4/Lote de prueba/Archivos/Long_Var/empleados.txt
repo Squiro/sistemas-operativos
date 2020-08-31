@@ -1,0 +1,3 @@
+111;Jose;Polverini;250.000
+222;Juan;Perez;120.300
+333;Dario;Oirad;400.250

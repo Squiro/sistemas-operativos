@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1542641082 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\arbol\ordenar_archivo\arbol.c
+	"arbol.h"
+
+1542644253 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\arbol\ordenar_archivo\funciones.c
+	"funciones.h"
+
+1542643677 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\arbol\ordenar_archivo\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1542643955 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\arbol\ordenar_archivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"arbol.h"
+
+1542642177 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\arbol\ordenar_archivo\arbol.h
+	<stdio.h>
+	<stdlib.h>
+
+1542641082 source:g:\facultad\programación\ejercicios\específicos\arbol\ordenar_archivo\arbol.c
+	"arbol.h"
+
+1542642177 g:\facultad\programación\ejercicios\específicos\arbol\ordenar_archivo\arbol.h
+	<stdio.h>
+	<stdlib.h>
+
+1542808636 source:g:\facultad\programación\ejercicios\específicos\arbol\ordenar_archivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"arbol.h"
+
+1542808553 g:\facultad\programación\ejercicios\específicos\arbol\ordenar_archivo\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1542808415 source:g:\facultad\programación\ejercicios\específicos\arbol\ordenar_archivo\funciones.c
+	"funciones.h"
+

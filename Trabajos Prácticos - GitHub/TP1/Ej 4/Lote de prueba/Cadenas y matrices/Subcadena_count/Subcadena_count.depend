@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1541971751 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\cadenas y matrices\subcadena_count\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1541971734 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\cadenas y matrices\subcadena_count\funciones.c
+	"funciones.h"
+
+1541971634 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\cadenas y matrices\subcadena_count\funciones.h
+	<stdlib.h>
+	<stdio.h>
+

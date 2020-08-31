@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1541974900 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\cadenas y matrices\busqueda_binaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1541974716 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\cadenas y matrices\busqueda_binaria\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1541974877 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\cadenas y matrices\busqueda_binaria\funciones.c
+	"funciones.h"
+

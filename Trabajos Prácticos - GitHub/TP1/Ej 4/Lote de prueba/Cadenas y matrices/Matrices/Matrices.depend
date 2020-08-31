@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1536925280 source:g:\facultad\programación\ejercicios\tp1\matrices\matrices.c
+	"matrices.h"
+
+1536925003 source:g:\facultad\programación\ejercicios\tp1\matrices\main.c
+	"matrices.h"
+
+1536925065 g:\facultad\programación\ejercicios\tp1\matrices\matrices.h
+	<stdio.h>
+	<stdlib.h>
+
+1536888369 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\tp1\matrices\main.c
+	"matrices.h"
+
+1536888720 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\tp1\matrices\matrices.h
+	<stdio.h>
+	<stdlib.h>
+
+1536916502 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\tp1\matrices\matrices.c
+	"matrices.h"
+
+1537039202 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\matrices\main.c
+	"matrices.h"
+
+1537039208 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\matrices\matrices.h
+	<stdio.h>
+	<stdlib.h>
+
+1537039204 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\matrices\matrices.c
+	"matrices.h"
+
+1537053066 source:c:\users\agustín\desktop\matrices\main.c
+	"matrices.h"
+
+1537049410 c:\users\agustín\desktop\matrices\matrices.h
+	<stdio.h>
+	<stdlib.h>
+
+1537053470 source:c:\users\agustín\desktop\matrices\matrices.c
+	"matrices.h"
+

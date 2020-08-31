@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1541353475 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\c++\clase_fecha\main.cpp
+	<iostream>
+	"fecha.h"
+
+1541353551 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\c++\clase_fecha\fecha.cpp
+	"fecha.h"
+
+1541351132 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\c++\clase_fecha\fecha.h
+	<iostream>
+	<stdexcept>
+

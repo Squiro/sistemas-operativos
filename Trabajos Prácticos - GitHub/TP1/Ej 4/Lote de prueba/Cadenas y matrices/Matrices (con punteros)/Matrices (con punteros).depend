@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1537493815 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\tp2\matrices (con punteros)\main.c
+	"funciones.h"
+
+1537493825 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\tp2\matrices (con punteros)\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1537494286 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\tp2\matrices (con punteros)\funciones.c
+	"funciones.h"
+

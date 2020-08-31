@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1535854361 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\tp1\vectores\funciones.c
+
+1535854877 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\tp1\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"funciones.h"
+
+1535854376 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\tp1\vectores\funciones.h
+

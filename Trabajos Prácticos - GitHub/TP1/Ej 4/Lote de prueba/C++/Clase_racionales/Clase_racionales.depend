@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1541532179 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\c++\clase_racionales\main.cpp
+	<iostream>
+	"racionales.h"
+
+1541532311 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\c++\clase_racionales\racionales.cpp
+	"racionales.h"
+	<stdexcept>
+
+1541532206 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\c++\clase_racionales\racionales.h
+	<iostream>
+
+1541532311 source:h:\facultad\programación\ejercicios\específicos\c++\clase_racionales\racionales.cpp
+	"racionales.h"
+	<stdexcept>
+
+1541532206 h:\facultad\programación\ejercicios\específicos\c++\clase_racionales\racionales.h
+	<iostream>
+

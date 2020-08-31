@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1538141672 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\long_fija\main.c
+	"funciones.h"
+
+1538173930 d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\long_fija\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538173937 source:d:\mis documentos\alesio\facultad\2018\programación\ejercicios\específicos\long_fija\funciones.c
+	"funciones.h"
+
+1538141672 source:h:\facultad\programación\ejercicios\específicos\long_fija\main.c
+	"funciones.h"
+
+1538093795 h:\facultad\programación\ejercicios\específicos\long_fija\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538141913 source:h:\facultad\programación\ejercicios\específicos\long_fija\funciones.c
+	"funciones.h"
+
